@@ -36,5 +36,5 @@ To run this project locally, you will need:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ssunny2427/Management-System.git
+   git clone https://github.com/ssunny2427/College-Management-System.git
    cd college-management-system
